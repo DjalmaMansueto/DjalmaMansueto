@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante de Desenvolvedor Full-Stack no Senac Bauru/SP, com foco no aprendizado de JavaScript, TypeScript, React.js, Node.js e Nest.js. Com experiência em atendimento ao público, estou em transição para a área de tecnologia, buscando criar soluções web modernas e eficientes. Meu objetivo é desenvolver aplicações de alta qualidade, sempre focando na experiência do usuário e na performance. Estou aberto a novos desafios e oportunidades de colaboração, e sempre em busca de aprender e evoluir no mundo da programação.</p>
+<p align="left">Sou estudante de Desenvolvemento Full-Stack no Senac Bauru/SP, com foco no aprendizado de JavaScript, TypeScript, React.js, Node.js e Nest.js. Com experiência em atendimento ao público, estou em transição para a área de tecnologia, buscando criar soluções web modernas e eficientes. Meu objetivo é desenvolver aplicações de alta qualidade, sempre focando na experiência do usuário e na performance. Estou aberto a novos desafios e oportunidades de colaboração, e sempre em busca de aprender e evoluir no mundo da programação.</p>
 
 ###
 
